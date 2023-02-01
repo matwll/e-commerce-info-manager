@@ -16,7 +16,6 @@ router.get('/', async (req, res) => {
       ]
     });
     const tags = tagData.map(x => x.get({plain: true}))
-    console.log(tags);
     res.status(200).json(tagData);
   } catch (err) {
     res.status(500).json(err);
