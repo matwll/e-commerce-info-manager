@@ -28,6 +28,9 @@
 <!-- ![webpage screenshot](./assets/images/webpage-screenshot.png) -->
 <img src="N/A" width="600" text-align="center">
 
+link to walkthrough video
+https://drive.google.com/file/d/1ogiPq6obez2jXSmBDDB4abAl8GfTyad2/view
+
 This application is for the backend of a e-commerce shop
 
 This application was built primarily utilizing the following programming languages:
